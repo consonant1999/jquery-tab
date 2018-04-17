@@ -1,6 +1,6 @@
 {
   "name": "jquery-tabs-for-testing",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "It's a tab plug made by jquery.",
   "main": "jquery-tab.js",
   "scripts": {
